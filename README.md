@@ -16,7 +16,8 @@ ________________________________________<br>
 •	Console cable (RS-232 to Console)<br>
 ________________________________________<br>
 # Network Topology Diagram
-(Insert your Packet Tracer screenshot here showing Router R1 and PC with console connection)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9a4989d1-156d-4004-a249-009741221a92" />
+
 ________________________________________
 # Procedure
 # Part 1: Verify the Default Router Configuration
@@ -80,10 +81,20 @@ ________________________________________
 ________________________________________
 # Output (Attach Screenshots)
 •	Console connection to router<br>
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/64580ab5-89f2-4cdc-ad5d-24aedf30f654" />
+
 •	Running configuration before and after<br>
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e85c2ad0-97a6-42da-8544-9c53385fc702" />
+
 •	MOTD banner display<br>
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/15db2a66-9c4b-4744-ba43-de3ac4c457ed" />
+
 •	Password prompts<br>
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/fb5cfbc4-5a1d-4a81-bb01-c30e8d2faef7" />
+
 •	Saved configuration in NVRAM and flash<br>
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/fcf03e25-4be1-4427-be26-1e7130605df4" />
+
 ________________________________________
 # Result
 The router was successfully configured with hostname, banner, encrypted passwords, and secure console access. The configuration was verified and saved to NVRAM and flash, ensuring persistence across reboots.
